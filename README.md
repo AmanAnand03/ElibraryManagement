@@ -34,6 +34,8 @@ In this project any member must first sign-up. Any member will have to fil all t
 ## Admin login:
 ![24](https://github.com/AmanAnand03/ElibraryManagement/assets/144671231/1641d9fa-caf3-4b46-bb77-ae17b4458225)
 
+Once the admin is login then the admin can access everything like add, update, delete, book detail, book issue and publisher detail. 
+
 ## Book Detail:
 ![25](https://github.com/AmanAnand03/ElibraryManagement/assets/144671231/dff8f585-7c47-4faf-8132-5e243714c1f6)
 
