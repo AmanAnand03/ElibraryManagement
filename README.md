@@ -1,5 +1,5 @@
 # #Elibrarymanagement
-## Description of Elibrary manegement in asp.net c#
+## Description of Elibrary manegement in Asp.net C#
 
 A Elibrary management system is a dynamic web application using ASP.Net with C# and that helps librarians manage the activities of a library. 
 In this project using the sql database and bootstrap. 
