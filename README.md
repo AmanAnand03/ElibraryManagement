@@ -26,6 +26,8 @@ Firstly the user will sign up page and  login and then can access.But  Admin can
 ## Member Signup:
 ![22](https://github.com/AmanAnand03/ElibraryManagement/assets/144671231/17325500-9592-4aea-a3a5-34cd4815ae0b)
 
+In this project any member must first sign-up. Any member will have to fil all the detail to sign-up like full name , contact number , city, state, email id, pin code.
+
 ## Member login:
 ![23](https://github.com/AmanAnand03/ElibraryManagement/assets/144671231/29d208d6-6020-4dfe-84db-cab5cc458e2e)
 
@@ -40,6 +42,11 @@ Firstly the user will sign up page and  login and then can access.But  Admin can
 
 ## Publisher detail:
 ![27](https://github.com/AmanAnand03/ElibraryManagement/assets/144671231/f5735c4d-e1ce-48cd-a44b-f1df37e5f1e4)
+
+## Member Detail
+![Member](https://github.com/AmanAnand03/ElibraryManagement/assets/144671231/d7e08d76-1279-4720-b636-8aa749c5040e)
+
+
 
 ## Built with
 * Visual Studio 2022
